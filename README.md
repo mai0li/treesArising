@@ -1,2 +1,2 @@
 # treesArising
-SYntax tree parsers in C
+Syntax tree parsers written in C
